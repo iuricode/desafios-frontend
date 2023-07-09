@@ -10,11 +10,11 @@
 
 ---
 
-| Desafio        | Figma    | Código fonte |
-| -------------- | -------- | ------------ |
+| Desafio        | Figma    | Código fonte | Vídeo |
+| -------------- | -------- | ------------ |  ------------ |
 | Blog           | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=0-1&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
 | JordanShoes    | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=1883-2&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
-| One page       | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=3725-2&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
+| One page       | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=3725-2&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     | [Link](https://www.youtube.com/watch?v=OPeMr0yYP0c) |
 | Login          | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=4261-2&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
 | Studio Ghubli  | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=5854-2&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
 | Loki           | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=7539-2&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
@@ -33,12 +33,12 @@
 | Portfolio 2    | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=58198-756&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
 | Xbox           | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=64381-758&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
 | Codelandia     | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=70013-760&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
-| Music Legends  | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=80254-762&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
+| Music Legends  | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=80254-762&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     | [Link](https://www.youtube.com/watch?v=igI3jKsOyMA) |
 | Arcane 2       | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=88764-795&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
 | HomeYou        | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=88764-796&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
 | Art.           | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=93571-1385&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
 | FoodJP         | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=107523-1216&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
-| PSG            | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=115719-1222&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
+| PSG            | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=115719-1222&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     | [Link](https://www.youtube.com/watch?v=KI2FCnNKHSI) |
 | Ani.me         | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=130247-1282&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
 | Steam          | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=133656-1286&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
 | Fifa           | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=152536-1288&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
