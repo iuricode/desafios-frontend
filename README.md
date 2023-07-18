@@ -12,12 +12,12 @@
 
 | Desafio        | Demo | Figma    | Código fonte | Vídeo | 
 | -------------- | -------- | -------- | ------------ |  ------------ |
-| Blog           | Em breve     | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=0-1&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
-| JordanShoes    | Em breve     | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=1883-2&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
-| One page       | Em breve     | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=3725-2&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     | [Link](https://www.youtube.com/watch?v=OPeMr0yYP0c) |
-| Login          | Em breve     | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=4261-2&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
-| Studio Ghubli  | Em breve     | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=5854-2&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
-| Loki           | Em breve     | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=7539-2&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
+| Blog           | [Link](https://tsb-codelandia01.netlify.app/) | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=0-1&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
+| JordanShoes    | [Link](https://tsb-codelandia02.netlify.app/) | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=1883-2&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
+| One page       | [Link](https://tsb-codelandia03.netlify.app/) | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=3725-2&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     | [Link](https://www.youtube.com/watch?v=OPeMr0yYP0c) |
+| Login          | [Link](https://tsb-codelandia04.netlify.app/) | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=4261-2&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
+| Studio Ghubli  | [Link](https://tsb-codelandia05.netlify.app/) | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=5854-2&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
+| Loki           | [Link](https://tsb-codelandia06.netlify.app/) | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=7539-2&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
 | Valorant       | Em breve     | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=10048-2&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
 | CodeMoji       | Em breve     | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=11471-2&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
 | Portfolio      | Em breve     | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=13190-2&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
