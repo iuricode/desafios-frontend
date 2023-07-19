@@ -1,14 +1,8 @@
-<h1 align="center">
-💻<br>Desafios Frontend
-</h1>
+# Desafios Frontend 💻
 
-## 📚 Aprenda frontend com uma didática simples
+Bem-vindo(a) ao **Desafios Frontend**! Este projeto open source é um conjunto de desafios desenvolvido pela comunidade Codelândia no Discord. Seu propósito é ajudar as pessoas a praticarem seus conhecimentos em desenvolvimento frontend, abrangendo áreas como HTML, CSS, JavaScript e também bibliotecas como React e Next.js.
 
-> Este repositório é um projeto gratuito para a comunidade de desenvolvedores. Mas você pode me ajudar comprando o ebook "eFront" se estiver interessado em aprender ou melhorar suas habilidades de desenvolvimento frontend. O ebook é completo e cobre tecnologias mais requisitados do mercado como HTML, CSS, JavaScript, Sass, Bootstrap, React, React Router, TypeScript, styled-components, Tailwind CSS, React Hook Form, Radix UI, Storybook, Cypress, Next.js e muito mais. O valor é R$15,00 e sua compra me ajuda a produzir e fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada no desenvolvimento frontend.
-
-- eFront - Estudando frontend do zero. [Clique aqui para comprar](https://iuricode.com/efront)
-
----
+## Comunidade Codelândia 🎉
 
 | Desafio | Nome        | Demo | Figma    | Código fonte | Vídeo | 
 | -- | -------------- | -------- | -------- | ------------ |  ------------ |
@@ -52,3 +46,11 @@
 | 38 | Codeplay.      | Em breve     | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=198105-3606&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
 | 39 | Blogames       | Em breve     | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=210567-3649&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
 | 40 | DashCode       | Em breve     | Em breve     | Em breve     |
+
+## Contribuição ✨
+
+Ajude a comunidade tornando este projeto ainda mais incrível. Leia como constribuir clicando **[aqui](https://github.com/iuricode/desafios-frontend/blob/main/CONTRIBUTING.md)** e a **[licença](https://github.com/iuricode/desafios-frontend/blob/main/LICENSE.md)**. Estou convencido de que juntos alcançaremos coisas incríveis! 
+
+## Aprenda desenvolvimento frontend ❤️
+
+Este repositório é um projeto gratuito para a comunidade de desenvolvedores, mas você pode me ajudar comprando o meu ebook "**[eFront - Estudando frontend do zero](https://iuricode.com/efront)**" se estiver interessado em aprender ou melhorar suas habilidades de desenvolvimento frontend. A sua compra me ajuda a produzir e fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada no desenvolvimento frontend.
