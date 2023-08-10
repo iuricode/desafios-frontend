@@ -45,10 +45,11 @@ Bem-vindo(a) ao **Desafios Frontend**! Este projeto open source é um conjunto d
 | 37 | TeslaBank      | Em breve     | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=191725-3600&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
 | 38 | Codeplay.      | Em breve     | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=198105-3606&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
 | 39 | Blogames       | Em breve     | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=210567-3649&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
+| 40 | Dashboard      | Em breve     | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=224375-16&mode=design&t=u8FHTHFEUhvLMv9D-0) | Em breve     |
 
 ## Contribuição ✨
 
-Ajude a comunidade tornando este projeto ainda mais incrível. Leia como constribuir clicando **[aqui](https://github.com/iuricode/desafios-frontend/blob/main/CONTRIBUTING.md)** e a **[licença](https://github.com/iuricode/desafios-frontend/blob/main/LICENSE.md)**. Estou convencido de que juntos alcançaremos coisas incríveis! 
+Ajude a comunidade tornando este projeto ainda mais incrível. Leia como contribuir clicando **[aqui](https://github.com/iuricode/desafios-frontend/blob/main/CONTRIBUTING.md)** e a **[licença](https://github.com/iuricode/desafios-frontend/blob/main/LICENSE.md)**. Estou convencido de que juntos alcançaremos coisas incríveis! 
 
 ## Aprenda desenvolvimento frontend ❤️
 
