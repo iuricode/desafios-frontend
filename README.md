@@ -44,7 +44,7 @@ Bem-vindo(a) ao **Desafios Frontend**! Este projeto open source é um conjunto d
 | 36 | eFront         | Em breve     | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=179485-3594&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
 | 37 | TeslaBank      | [Link](https://teslabank-codelandia.vercel.app/) | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=191725-3600&mode=design&t=y8MCYFp0EDOred8A-0) | [Link](https://github.com/luiseduardot17/teslabank-codelandia) |
 | 38 | Codeplay.      | Em breve     | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=198105-3606&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
-| 39 | Blogames       | Em breve     | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=210567-3649&mode=design&t=y8MCYFp0EDOred8A-0) | Em breve     |
+| 39 | Blogames       | [Link](https://blogames.vercel.app/) | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=210567-3649&mode=design&t=y8MCYFp0EDOred8A-0) | [Link](https://github.com/kauanidev/blogames) |
 | 40 | Dashboard      | Em breve     | [Link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=224375-16&mode=design&t=u8FHTHFEUhvLMv9D-0) | Em breve     |
 
 ## Contribuição ✨
