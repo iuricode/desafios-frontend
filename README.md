@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Desafios Frontend 💻
+  Desafios Frontend da Comunidade Codelandia 💻
 </h1>
 
 <p align="center">
@@ -28,7 +28,7 @@ Para consumir ou visualizar os desafios expostos neste repositório, será neces
 
 ## 📁 Desafios/
 * [DesafiosUIWeb.md](DesafiosUIWeb.md)  | Desafios FrontEnd Web da Comunidade
-* [CSSTober](EventoCSSTober.md)  | **Evento de Outubro/2023** : Desenvolva uma ilustração com CSS por dia, durante 31 dias.
+* [CSSTober.md](EventoCSSTober.md)  | **Evento de Outubro** : Desenvolva uma ilustração com CSS por dia, durante 31 dias.
 
 ## Contribuição ✨
 
