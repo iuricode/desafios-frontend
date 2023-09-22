@@ -11,7 +11,7 @@
 </p>
 
 ## O Evento 💫 
-O CSSTober é um desafio que visa aprimorar suas habilidades de codificação por meio da criação de mini-ilustrações diárias, utilizando principalmente HTML5 e CSS3. O desafio consiste em criar uma mini-ilustração por dia, com base no tema designado para aquele dia. <br><br>
+O CSSTober é um desafio que visa aprimorar suas habilidades de codificação por meio da criação de mini-ilustrações diárias, utilizando principalmente HTML5 e CSS3. O desafio consiste em criar uma mini-ilustração por dia, com base no tema designado para aquele dia durante todo o mês de Outubro. <br><br>
 ❗️ | Para conseguir realizar os desafios, você precisará ter conhecimento básico da sintaxe do HTML e CSS. Caso ainda não tenha, este evento pode ajudá-lo, porém, a dificuldade será maior. <br>
 
 ## Regras Gerais
