@@ -1,6 +1,6 @@
 # Desafios Frontend 💻
 
-Bem-vindo(a) ao **Desafios Frontend**! Este projeto open source é um conjunto de desafios desenvolvido pela comunidade **[Codelândia no Discord](https://discord.com/invite/QevDJqCzaY)**. Seu propósito é ajudar as pessoas a praticarem seus conhecimentos em desenvolvimento frontend, abrangendo áreas como HTML, CSS, JavaScript e também bibliotecas como React e Next.js.
+Bem-vindo(a) ao **Desafios Frontend**! Este projeto open source é um conjunto de desafios desenvolvido pela comunidade **[Codelândia no Discord](https://discord.gg/uHWE7QbXnp)**. Seu propósito é ajudar as pessoas a praticarem seus conhecimentos em desenvolvimento frontend, abrangendo áreas como HTML, CSS, JavaScript e também bibliotecas como React e Next.js.
 
 ## Comunidade Codelândia 🎉
 
