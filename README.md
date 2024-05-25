@@ -6,7 +6,7 @@ Bem-vindo(a) ao $\color{orange}{\textsf{Desafio Frontend}}$! Este projeto open s
 
 | Status | Desafio | Nome |                        Figma                        |   Demo   | Código-fonte |
 | :----: | :-----: | :--: | :-------------------------------------------------: | :------: | :----------: |
-|   ⚠️   |   01    | Blog | [Acessar](https://bit.ly/cafe-com-codigo-desafio-1) | Em breve |   Em breve   |
+|   ⚠️   |   01    | Blog | [![Acessar Figma](https://img.shields.io/badge/Figma-2E14F5?style=for-the-badge&logo=figma&logoColor=white)](https://bit.ly/cafe-com-codigo-desafio-1) | Em breve |   Em breve   |
 
 > [!IMPORTANT]
 > Após finalizar o desafio, poste no grupo "**Café com Código - Desafios**" marcando os ADMs do grupo e deixe claro que você finalizou o desafio.
