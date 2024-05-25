@@ -1,12 +1,12 @@
 # Desafios Frontend ☕
 
-Bem-vindo(a) ao $\color{orange}{\textsf{Desafio Frontend}}$! Este projeto open source é um conjunto de desafios pela comunidade **Codelândia** e que será desenvolvido pelo grupo **Café com Código**. Seu propósito é ajudar as pessoas a praticarem seus conhecimentos em desenvolvimento frontend, abrangendo áreas como HTML, CSS, JavaScript e também bibliotecas como React, Vue e Angular.
+Bem-vindo(a) ao $\color{orange}{\textsf{Desafio Frontend}}$! Este projeto open source é um conjunto de desafios pela comunidade $\color{orange}{\textsf{Café com Código}}$ e que será desenvolvido pelo grupo $\color{orange}{\textsf{Café com Código}}$. Seu propósito é ajudar as pessoas a praticarem seus conhecimentos em desenvolvimento frontend, abrangendo áreas como HTML, CSS, JavaScript e também bibliotecas como React, Vue e Angular.
 
 ## Desafios ❤️
 
-| Status | Desafio | Nome |                      Figma                       |   Demo   | Código-fonte |
-| :----: | :-----: | :--: | :----------------------------------------------: | :------: | :----------: |
-|   ⚠️   |   01    | Blog | [Link](https://bit.ly/cafe-com-codigo-desafio-1) | Em breve |   Em breve   |
+| Status | Desafio | Nome |                        Figma                        |   Demo   | Código-fonte |
+| :----: | :-----: | :--: | :-------------------------------------------------: | :------: | :----------: |
+|   ⚠️   |   01    | Blog | [Acessar](https://bit.ly/cafe-com-codigo-desafio-1) | Em breve |   Em breve   |
 
 > [!IMPORTANT]
 > Após finalizar o desafio, poste no grupo "**Café com Código - Desafios**" marcando os ADMs do grupo e deixe claro que você finalizou o desafio.
@@ -19,7 +19,7 @@ Bem-vindo(a) ao $\color{orange}{\textsf{Desafio Frontend}}$! Este projeto open s
 
 ## Status 🚨
 
-Toda semana será proposto um novo desafio para ser desenvolvido. Se o desafio tiver este ícone ⚠️, quer dizer que você está dentro do prazo de entrega. Caso tenha este ícone ✅, o prazo finalizou.
+Toda semana será proposto um novo desafio para ser desenvolvido. Se o desafio tiver este ícone ⚠️, quer dizer que você está `dentro do prazo` de entrega. Caso tenha este ícone ✅, o prazo `finalizou`.
 
 ## Rank 🏆
 
