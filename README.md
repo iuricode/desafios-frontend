@@ -1,6 +1,6 @@
 # Desafios Frontend ☕
 
-Bem-vindo(a) ao **Desafios Frontend**! Este projeto open source é um conjunto de desafios pela comunidade Codelândia no Discord e que será desenvolvido pelo grupo **Café com Código**. Seu propósito é ajudar as pessoas a praticarem seus conhecimentos em desenvolvimento frontend, abrangendo áreas como HTML, CSS, JavaScript e também bibliotecas como React, Vue e Angular.
+Bem-vindo(a) ao <b style="color: pink;">Desafios Frontend</b>! Este projeto open source é um conjunto de desafios pela comunidade **Codelândia** e que será desenvolvido pelo grupo **Café com Código**. Seu propósito é ajudar as pessoas a praticarem seus conhecimentos em desenvolvimento frontend, abrangendo áreas como HTML, CSS, JavaScript e também bibliotecas como React, Vue e Angular.
 
 ## Desafios ❤️
 
@@ -8,7 +8,8 @@ Bem-vindo(a) ao **Desafios Frontend**! Este projeto open source é um conjunto d
 | :----: | :-----: | :--: | :----------------------------------------------: | :------: | :----------: |
 |   ⚠️   |   01    | Blog | [Link](https://bit.ly/cafe-com-codigo-desafio-1) | Em breve |   Em breve   |
 
-👉 Atenção: Após finalizar o desafio, poste no grupo "**Café com Código - Desafios**" marcando os ADMs do grupo e deixe claro que você finalizou o desafio.
+> [!IMPORTANT]
+> Após finalizar o desafio, poste no grupo "**Café com Código - Desafios**" marcando os ADMs do grupo e deixe claro que você finalizou o desafio.
 
 ## Permissão ✨
 
@@ -30,7 +31,7 @@ Estas são as pessoas que tiveram os melhores projetos da semana. O número de e
       <a href="https://github.com/octocat" title="Perfil">
         <img src="https://avatars.githubusercontent.com/u/583231" width="100px;" alt="Foto"/><br>
         <sub>
-          <b>Nome</b>
+          <b>Octocat</b>
         </sub>
       </a>
       <br>
