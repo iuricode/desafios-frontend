@@ -1,6 +1,6 @@
 # Desafios Frontend ☕
 
-Bem-vindo(a) ao <b style="color: pink;">Desafios Frontend</b>! Este projeto open source é um conjunto de desafios pela comunidade **Codelândia** e que será desenvolvido pelo grupo **Café com Código**. Seu propósito é ajudar as pessoas a praticarem seus conhecimentos em desenvolvimento frontend, abrangendo áreas como HTML, CSS, JavaScript e também bibliotecas como React, Vue e Angular.
+Bem-vindo(a) ao $\color{orange}{\textsf{Desafio Frontend}}$! Este projeto open source é um conjunto de desafios pela comunidade **Codelândia** e que será desenvolvido pelo grupo **Café com Código**. Seu propósito é ajudar as pessoas a praticarem seus conhecimentos em desenvolvimento frontend, abrangendo áreas como HTML, CSS, JavaScript e também bibliotecas como React, Vue e Angular.
 
 ## Desafios ❤️
 
