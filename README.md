@@ -31,10 +31,10 @@ Estas são as pessoas que tiveram os melhores projetos da semana. O número de e
         <img src="https://avatars.githubusercontent.com/u/583231" width="100px;" alt="Foto"/><br>
         <sub>
           <b>Nome</b>
-          <br>
-          <b>⭐⭐⭐</b>
         </sub>
       </a>
+      <br>
+      <b>⭐⭐⭐</b>
     </td>
   </tr>
 </table>
