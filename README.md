@@ -1,17 +1,40 @@
-# Desafios Frontend 💻
+# Desafios Frontend ☕
 
-Bem-vindo(a) ao **Desafios Frontend**! Este projeto open source é um conjunto de desafios desenvolvido pela comunidade **[Codelândia no Discord](https://discord.gg/uHWE7QbXnp)**. Seu propósito é ajudar as pessoas a praticarem seus conhecimentos em desenvolvimento frontend, abrangendo áreas como HTML, CSS, JavaScript e também bibliotecas como React, Vue e Angular.
+Bem-vindo(a) ao **Desafios Frontend**! Este projeto open source é um conjunto de desafios pela comunidade Codelândia no Discord e que será desenvolvido pelo grupo **Café com Código**. Seu propósito é ajudar as pessoas a praticarem seus conhecimentos em desenvolvimento frontend, abrangendo áreas como HTML, CSS, JavaScript e também bibliotecas como React, Vue e Angular.
 
-## Desafios
+## Desafios ❤️
 
-| Desafio | Nome | Figma                                            | Demo     | Código-fonte |
-| ------- | ---- | ------------------------------------------------ | -------- | ------------ |
-| 01      | Blog | [Link](https://bit.ly/cafe-com-codigo-desafio-1) | Em breve | Em breve     |
+| Status | Desafio | Nome |                      Figma                       |   Demo   | Código-fonte |
+| :----: | :-----: | :--: | :----------------------------------------------: | :------: | :----------: |
+|   ⚠️   |   01    | Blog | [Link](https://bit.ly/cafe-com-codigo-desafio-1) | Em breve |   Em breve   |
 
-## Contribuição ✨
+👉 Atenção: Após finalizar o desafio, poste no grupo "**Café com Código - Desafios**" marcando os ADMs do grupo e deixe claro que você finalizou o desafio.
 
-Ajude a comunidade tornando este projeto ainda mais incrível. Leia como contribuir clicando **[aqui](https://github.com/iuricode/desafios-frontend/blob/main/CONTRIBUTING.md)** e a **[licença](https://github.com/iuricode/desafios-frontend/blob/main/LICENSE.md)**. Estou convencido de que juntos alcançaremos coisas incríveis!
+## Permissão ✨
 
-## Aprenda desenvolvimento frontend ❤️
+- Você pode utilizar qualquer tecnologia para desenvolver o desafio;
+- Você tem permissão para adicionar o desafio em seu GitHub e utilizá-lo como projeto de portfólio;
+- Você pode realizar o desafio fora do prazo de término, porém o número de pessoas para te dar suporte em um problema X será menor. Além disso, você não poderá participar do nosso Rank.
 
-Este repositório é um projeto gratuito para a comunidade de desenvolvedores, mas você pode me ajudar comprando o meu ebook "**[eFront - Guia para aprender frontend](https://iuricode.com/efront)**" se estiver interessado em aprender ou melhorar suas habilidades de desenvolvimento frontend. A sua compra me ajuda a produzir e fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada no desenvolvimento frontend.
+## Status 🚨
+
+Toda semana será proposto um novo desafio para ser desenvolvido. Se o desafio tiver este ícone ⚠️, quer dizer que você está dentro do prazo de entrega. Caso tenha este ícone ✅, o prazo finalizou.
+
+## Rank 🏆
+
+Estas são as pessoas que tiveram os melhores projetos da semana. O número de estrelas é a quantidade de vezes que a pessoa teve o melhor projeto da semana.
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/octocat" title="Perfil">
+        <img src="https://avatars.githubusercontent.com/u/583231" width="100px;" alt="Foto"/><br>
+        <sub>
+          <b>Nome</b>
+          <br>
+          <b>⭐⭐⭐</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
