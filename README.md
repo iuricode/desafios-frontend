@@ -1,6 +1,6 @@
 # Desafios Frontend ☕
 
-Bem-vindo(a) ao $\color{orange}{\textsf{Desafio Frontend}}$! Este projeto open source é um conjunto de desafios pela comunidade $\color{orange}{\textsf{CodeLab}}$ e que será desenvolvido pelo grupo $\color{orange}{\textsf{Café com Código}}$. Seu propósito é ajudar as pessoas a praticarem seus conhecimentos em desenvolvimento frontend, abrangendo áreas como HTML, CSS, JavaScript e também bibliotecas como React, Vue e Angular.
+Bem-vindo(a) ao $\color{orange}{\textsf{Desafios Frontend}}$! Este projeto open-source é um conjunto de desafios pela comunidade $\color{orange}{\textsf{CodeLab}}$. Seu propósito é ajudar as pessoas a praticarem seus conhecimentos em desenvolvimento frontend, abrangendo áreas como HTML, CSS, JavaScript e também bibliotecas como React, Vue e Angular.
 
 ## Desafios ❤️
 
@@ -10,6 +10,8 @@ Bem-vindo(a) ao $\color{orange}{\textsf{Desafio Frontend}}$! Este projeto open s
 
 > [!IMPORTANT]
 > Após finalizar o desafio, poste no grupo "**Café com Código - Desafios**" marcando os ADMs do grupo e deixe claro que você finalizou o desafio.
+
+👉 [Drive dos desafios](https://drive.google.com/drive/folders/1xMW3lWcDOME3HXff1nj_Y6j1dMoBhEtQ)
 
 ## Permissão ✨
 
