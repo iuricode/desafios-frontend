@@ -11,7 +11,7 @@ Bem-vindo(a) ao $\color{orange}{\textsf{Desafios Frontend}}$! Este projeto open-
 > [!IMPORTANT]
 > Após finalizar o desafio, poste no grupo "**Café com Código - Desafios**" marcando os ADMs do grupo e deixe claro que você finalizou o desafio.
 
-👉 [Drive dos desafios](https://drive.google.com/drive/folders/1xMW3lWcDOME3HXff1nj_Y6j1dMoBhEtQ)
+👉 [Drive dos desafios](https://bit.ly/drive-codelab)
 
 ## Permissão ✨
 
