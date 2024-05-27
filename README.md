@@ -1,12 +1,12 @@
 # Desafios Frontend ☕
 
-Bem-vindo(a) ao $\color{orange}{\textsf{Desafio Frontend}}$! Este projeto open source é um conjunto de desafios pela comunidade $\color{orange}{\textsf{Codelândia}}$ e que será desenvolvido pelo grupo $\color{orange}{\textsf{Café com Código}}$. Seu propósito é ajudar as pessoas a praticarem seus conhecimentos em desenvolvimento frontend, abrangendo áreas como HTML, CSS, JavaScript e também bibliotecas como React, Vue e Angular.
+Bem-vindo(a) ao $\color{orange}{\textsf{Desafio Frontend}}$! Este projeto open source é um conjunto de desafios pela comunidade $\color{orange}{\textsf{CodeLab}}$ e que será desenvolvido pelo grupo $\color{orange}{\textsf{Café com Código}}$. Seu propósito é ajudar as pessoas a praticarem seus conhecimentos em desenvolvimento frontend, abrangendo áreas como HTML, CSS, JavaScript e também bibliotecas como React, Vue e Angular.
 
 ## Desafios ❤️
 
 | Status | Desafio | Nome |                        Figma                        |   Demo   | Código-fonte |
 | :----: | :-----: | :--: | :-------------------------------------------------: | :------: | :----------: |
-|   ⚠️   |   01    | Blog | [![Acessar Figma](https://img.shields.io/badge/Figma-2E14F5?style=for-the-badge&logo=figma&logoColor=white)](https://bit.ly/cafe-com-codigo-desafio-1) | Em breve |   Em breve   |
+|   ⚠️   |   01    | Blog | [Acessar Figma](https://bit.ly/cafe-com-codigo-desafio-1) | Em breve |   Em breve   |
 
 > [!IMPORTANT]
 > Após finalizar o desafio, poste no grupo "**Café com Código - Desafios**" marcando os ADMs do grupo e deixe claro que você finalizou o desafio.
