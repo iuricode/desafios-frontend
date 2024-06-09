@@ -6,8 +6,8 @@ Bem-vindo(a) ao $\color{orange}{\textsf{Desafios frontend}}$! Este projeto open-
 
 | Status | Desafio | Nome |                        Figma                        |   Demo   | Código-fonte |
 | :----: | :-----: | :--: | :-------------------------------------------------: | :------: | :----------: |
-|   ✅   |   01    | Blog | [Acessar Figma](https://bit.ly/codelab-desafio-1)  | Em breve |   Em breve   |
-|   ⚠️   |   02    | JordanShoes | [Acessar Figma](https://bit.ly/codelab-desafio-2)  | Em breve |   Em breve   |
+|   ✅   |   01    | Blog | [Acessar](https://bit.ly/codelab-desafio-1)  | [Acessar](https://technology-devblog.netlify.app) | [Acessar](https://github.com/lucasgabriell97/desafios-codelab) |
+|   ⚠️   |   02    | JordanShoes | [Acessar](https://bit.ly/codelab-desafio-2)  | Em breve |   Em breve   |
 
 > [!IMPORTANT]
 > Após finalizar o desafio, poste no grupo "**Café com Código - Desafios**" marcando os ADMs do grupo e deixe claro que você finalizou o desafio.
@@ -26,19 +26,19 @@ Toda semana será proposto um novo desafio para ser desenvolvido. Se o desafio t
 
 ## Rank 🏆
 
-Estas são as pessoas que tiveram os melhores projetos da semana. O número de estrelas é a quantidade de vezes que a pessoa teve o melhor projeto da semana.
+Estas são as pessoas que tiveram os melhores projetos da semana.
 
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/octocat" title="Perfil">
-        <img src="https://avatars.githubusercontent.com/u/583231" width="100px;" alt="Foto"/><br>
+      <a href="https://github.com/lucasgabriell97" title="Perfil">
+        <img src="https://avatars.githubusercontent.com/u/82159552?v=4" width="100px;" alt="Foto"/><br>
         <sub>
-          <b>Octocat</b>
+          <b>Lucas Gabriell</b>
         </sub>
       </a>
       <br>
-      <b>⭐⭐⭐</b>
+      <b>⭐</b>
     </td>
   </tr>
 </table>
