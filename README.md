@@ -6,7 +6,8 @@ Bem-vindo(a) ao $\color{orange}{\textsf{Desafios frontend}}$! Este projeto open-
 
 | Status | Desafio | Nome |                        Figma                        |   Demo   | Código-fonte |
 | :----: | :-----: | :--: | :-------------------------------------------------: | :------: | :----------: |
-|   ⚠️   |   01    | Blog | [Acessar Figma](https://bit.ly/codelab-desafio-1)  | Em breve |   Em breve   |
+|   ✅   |   01    | Blog | [Acessar Figma](https://bit.ly/codelab-desafio-1)  | Em breve |   Em breve   |
+|   ⚠️   |   02    | JordanShoes | [Acessar Figma](https://bit.ly/codelab-desafio-2)  | Em breve |   Em breve   |
 
 > [!IMPORTANT]
 > Após finalizar o desafio, poste no grupo "**Café com Código - Desafios**" marcando os ADMs do grupo e deixe claro que você finalizou o desafio.
