@@ -6,9 +6,9 @@ Bem-vindo(a) ao $\color{orange}{\textsf{Desafios frontend}}$! Este projeto open-
 
 | Status | Desafio | Nome |                        Figma                        |   Demo   | Código-fonte |
 | :----: | :-----: | :--: | :-------------------------------------------------: | :------: | :----------: |
-|   ✅   |   01    | Blog | [Acessar](https://bit.ly/codelab-desafio-1)  | [Acessar](https://technology-devblog.netlify.app) | [Acessar](https://github.com/lucasgabriell97/desafios-codelab) |
-|   ✅   |   02    | JordanShoes | [Acessar](https://bit.ly/codelab-desafio-2)  | Em breve |   Em breve   |
-|   ⚠️   |   03    | TechBlog    | [Acessar](https://bit.ly/codelab-desafio-3)  | Em breve |   Em breve   |
+|   ✅   |   01    | Blog | [Acessar](https://bit.ly/codelab-desafio-1) | [Acessar](https://technology-devblog.netlify.app) | [Acessar](https://github.com/lucasgabriell97/desafios-codelab) |
+|   ✅   |   02    | JordanShoes | [Acessar](https://bit.ly/codelab-desafio-2) | [Acessar](https://desafios-codelandia-desafio-02.vercel.app) | [Acessar](https://github.com/gabrielalencs/Desafios-Codelandia) |
+|   ⚠️   |   03    | TechBlog    | [Acessar](https://bit.ly/codelab-desafio-3) | Em breve | Em breve |
 
 > [!IMPORTANT]
 > Após finalizar o desafio, poste no grupo "**Café com Código - Desafios**" marcando os ADMs do grupo e deixe claro que você finalizou o desafio.
@@ -36,6 +36,16 @@ Estas são as pessoas que tiveram os melhores projetos da semana.
         <img src="https://avatars.githubusercontent.com/u/82159552?v=4" width="100px;" alt="Foto"/><br>
         <sub>
           <b>Lucas Gabriell</b>
+        </sub>
+      </a>
+      <br>
+      <b>⭐</b>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gabrielalencs" title="Perfil">
+        <img src="https://avatars.githubusercontent.com/u/127636935?v=4" width="100px;" alt="Foto"/><br>
+        <sub>
+          <b>Gabriel de Alencar</b>
         </sub>
       </a>
       <br>
