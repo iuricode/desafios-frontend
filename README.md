@@ -8,7 +8,8 @@ Bem-vindo(a) ao $\color{orange}{\textsf{Desafios frontend}}$! Este projeto open-
 | :----: | :-----: | :--: | :-------------------------------------------------: | :------: | :----------: |
 |   ✅   |   01    | Blog | [Acessar](https://bit.ly/codelab-desafio-1) | [Acessar](https://technology-devblog.netlify.app) | [Acessar](https://github.com/lucasgabriell97/desafios-codelab) |
 |   ✅   |   02    | JordanShoes | [Acessar](https://bit.ly/codelab-desafio-2) | [Acessar](https://desafios-codelandia-desafio-02.vercel.app) | [Acessar](https://github.com/gabrielalencs/Desafios-Codelandia) |
-|   ⚠️   |   03    | TechBlog    | [Acessar](https://bit.ly/codelab-desafio-3) | Em breve | Em breve |
+|   ✅   |   03    | TechBlog    | [Acessar](https://bit.ly/codelab-desafio-3) | [Acessar](https://gabazevdo.github.io/codelab/desafios/03/index.html) | [Acessar](https://github.com/gabazevdo/codelab/tree/main/desafios/03) |
+|   ⚠️   |   04    | Login       | [Acessar](https://bit.ly/codelab-desafio-4) | Em breve | Em breve |
 
 > [!IMPORTANT]
 > Após finalizar o desafio, poste no grupo "**Café com Código - Desafios**" marcando os ADMs do grupo e deixe claro que você finalizou o desafio.
@@ -46,6 +47,16 @@ Estas são as pessoas que tiveram os melhores projetos da semana.
         <img src="https://avatars.githubusercontent.com/u/127636935?v=4" width="100px;" alt="Foto"/><br>
         <sub>
           <b>Gabriel de Alencar</b>
+        </sub>
+      </a>
+      <br>
+      <b>⭐</b>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gabazevdo" title="Perfil">
+        <img src="https://avatars.githubusercontent.com/u/16105546?v=4" width="100px;" alt="Foto"/><br>
+        <sub>
+          <b>Gabriel Azevedo</b>
         </sub>
       </a>
       <br>
