@@ -9,7 +9,8 @@ Bem-vindo(a) ao $\color{orange}{\textsf{Desafios frontend}}$! Este projeto open-
 |   ✅   |   01    | Blog | [Acessar](https://bit.ly/codelab-desafio-1) | [Acessar](https://technology-devblog.netlify.app) | [Acessar](https://github.com/lucasgabriell97/desafios-codelab) |
 |   ✅   |   02    | JordanShoes | [Acessar](https://bit.ly/codelab-desafio-2) | [Acessar](https://desafios-codelandia-desafio-02.vercel.app) | [Acessar](https://github.com/gabrielalencs/Desafios-Codelandia) |
 |   ✅   |   03    | TechBlog    | [Acessar](https://bit.ly/codelab-desafio-3) | [Acessar](https://gabazevdo.github.io/codelab/desafios/03/index.html) | [Acessar](https://github.com/gabazevdo/codelab/tree/main/desafios/03) |
-|   ⚠️   |   04    | Login       | [Acessar](https://bit.ly/codelab-desafio-4) | Em breve | Em breve |
+|   ✅   |   04    | Login       | [Acessar](https://bit.ly/codelab-desafio-4) | [Acessar](https://login-drab-ten.vercel.app/) | [Acessar](https://github.com/lucasgabriell97/desafios-codelab/tree/main/desafio-04) |
+|   ⚠️   |   05    | Studio Ghibli | [Acessar](https://bit.ly/codelab-desafio-5) | Em breve | Em breve |
 
 > [!IMPORTANT]
 > Após finalizar o desafio, poste no grupo "**Café com Código - Desafios**" marcando os ADMs do grupo e deixe claro que você finalizou o desafio.
@@ -40,7 +41,7 @@ Estas são as pessoas que tiveram os melhores projetos da semana.
         </sub>
       </a>
       <br>
-      <b>⭐</b>
+      <b>⭐⭐</b>
     </td>
     <td align="center">
       <a href="https://github.com/gabrielalencs" title="Perfil">
