@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css';
 import Root from './routes/Root';
-import Home from './pages/home/Home';
+import Home from './pages/Home';
 import Jogos from './pages/Jogos';
 import Galeria from './pages/Galeria';
 import Unbox from './pages/Unbox';
