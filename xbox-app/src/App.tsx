@@ -12,7 +12,7 @@ function App() {
       <div className="bg-dark10">
         <Root></Root>
 
-        <div className="p-8">
+        <div >
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/jogos" element={<Jogos />} />

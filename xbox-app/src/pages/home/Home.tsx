@@ -1,76 +1,38 @@
 import Xbox from '../../assets/images/xbox.png';
 import Controle from '../../assets/images/controle-xbox.png';
-import { useEffect } from 'react';
-import Splide from '@splidejs/splide';
 import F6 from '../../assets/images/1.png';
+import Forza from '../../assets/images/2.png'
+import Fifa from '../../assets/images/3.png'
+import Mine from '../../assets/images/4.png'
 import './Home.css';
+import Carousel from '../../components/Carousel';
+import Faq from '../../components/Faq';
+import Logo from '../../assets/images/logo-xbox.png'
 
-interface Carousel {
-  type: string;
-  autoplay: boolean;
-  rewind: boolean;
-  rewindByDrag: boolean;
-  pagination: boolean;
-  arrows: boolean;
-  interval: number;
-  speed: number;
-  perPage: number;
-  perMove: number;
-  focus: number | 'center' | undefined;
-  slideFocus: boolean;
-  updateOnMove: boolean;
-  clones: number;
-  gap: string;
-  mediaQuery?: 'max' | 'min' | undefined;
-  breakpoints: {
-    [key: number]: {
-      gap: string;
-    };
-  };
+export interface FaqQuestions {
+  id: number,
+  question: string,
+  response: string
 }
 
-function Home() {
-  const carouselFunc = (): void => {
-    const splideOptionBanner: Carousel = {
-      type: 'loop',
-      autoplay: false,
-      rewind: true,
-      rewindByDrag: true,
-      pagination: false,
-      arrows: false,
-      interval: 5000,
-      speed: 1000,
-      perPage: 1,
-      perMove: 1,
-      focus: 'center',
-      slideFocus: true,
-      updateOnMove: true,
-      clones: 4,
-      gap: '35px',
-      mediaQuery: 'max',
-      breakpoints: {
-        768: {
-          gap: '12px',
-        },
-      },
-    };
+const faqQuestions: FaqQuestions[] =  [
+  {
+    id: 1,
+    question: 'Meus jogos anteriores do Xbox vão funcionar no Xbox Series X?',
+    response: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+  },
+  {
+    id: 2,
+    question: 'O que está incluído no Xbox Series X?',
+    response: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+  }, {
+    id: 3,
+    question: 'Como sei se minha TV é compatível com 4K?',
+    response: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+  }
+]
 
-    const splideBanner = document.getElementsByClassName('js-carousel-01');
-
-    // Verificar se há pelo menos um elemento
-    if (splideBanner.length === 0) {
-      return;
-    } else {
-      for (let i = 0; i < splideBanner.length; i++) {
-        const element = splideBanner[i] as HTMLElement;
-        new Splide(element, splideOptionBanner).mount({});
-      }
-    }
-  };
-
-  useEffect(() => {
-    carouselFunc();
-  }, []);
+function Home() { 
 
   return (
     <main>
@@ -88,6 +50,7 @@ function Home() {
           <div className="absolute w-full z-10 h-full bg-gradient-to-b from-transparent to-dark10"></div>
         </figure>
       </section>
+      
       <section className="my-32 flex flex-row px-10 justify-between">
         <div className="w-[49%] text-white">
           <h1 className="text-6xl text-brand font-bold leading-snug">
@@ -104,40 +67,24 @@ function Home() {
       </section>
 
       <section
-        id="image-carousel"
-        className="js-carousel-01 splide topics-carousel h-screen w-screen"
-        aria-label="slider"
+        className="h-screen overflow-hidden my-32"
       >
-        <div className="topics-carousel-track splide__track">
-          <div className="splide__list">
-            <div className="topics-carousel-slide splide__slide">
-              <a className="topics-carousel-thumbnail" href="#">
-                <img src="https://picsum.photos/400/250" alt="" />
-              </a>
-            </div>
-            <div className="topics-carousel-slide splide__slide">
-              <a className="topics-carousel-thumbnail" href="#">
-                <img src="https://picsum.photos/400/250" alt="" />
-              </a>
-            </div>
-            <div className="topics-carousel-slide splide__slide">
-              <a className="topics-carousel-thumbnail" href="#">
-                <img src="https://picsum.photos/400/250" alt="" />
-              </a>
-            </div>
-            <div className="topics-carousel-slide splide__slide">
-              <a className="topics-carousel-thumbnail" href="#">
-                <img src="https://picsum.photos/400/250" alt="" />
-              </a>
-            </div>
-            <div className="topics-carousel-slide splide__slide">
-              <a className="topics-carousel-thumbnail" href="#">
-                <img src="https://picsum.photos/400/250" alt="" />
-              </a>
-            </div>
+        <Carousel images={[F6, Fifa, Forza, Mine]}/>
+      </section>
+
+      <section className=' my-32 px-10'>
+        <Faq value={faqQuestions}/>
+      </section>
+
+      <footer className='px-10 h-20' >
+        <div className='flex flex-row justify-between items-center'>
+          <img src={Logo} alt="logo-xbox" className='h-4/5'/>
+          <div className='w-[30%] text-dark20 flex flex-row justify-between text-sm'>
+            <p>Microsoft 2022</p>
+            <p>Todos os direitos reservados</p>
           </div>
         </div>
-      </section>
+      </footer>
     </main>
   );
 }
