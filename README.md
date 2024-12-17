@@ -86,3 +86,7 @@ Estas são as pessoas que tiveram os melhores projetos da semana.
     </td>
   </tr>
 </table>
+
+## Aprenda programação ❤️
+
+Este repositório é um projeto gratuito para a comunidade de desenvolvedores, mas você pode me ajudar comprando o meu curso "**[FrontCode](https://iuricode.com/frontcode)**" se estiver interessado em aprender ou melhorar suas habilidades na programação. A sua compra me ajuda a produzir e fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada na programação.
