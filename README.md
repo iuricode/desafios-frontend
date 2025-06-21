@@ -46,6 +46,10 @@ Bem-vindo(a) ao desafios frontend. Este projeto open-source é um conjunto de de
 - Você pode utilizar qualquer tecnologia para desenvolver o desafio;
 - Você tem permissão para adicionar o desafio em seu GitHub e utilizá-lo como projeto de portfólio;
 
-## Aprenda programação ❤️
+## Disponível para freelas - #OpenToWork 🚀
 
-Este repositório é um projeto gratuito para a comunidade de desenvolvedores, mas você pode me ajudar comprando o meu curso "**[FrontCode](https://iuricode.com/frontcode)**" se estiver interessado em aprender ou melhorar suas habilidades na programação. A sua compra me ajuda a produzir e fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada na programação.
+Atualmente estou aberto para oportunidades como Desenvolvedor Frontend e UI/UX Designer. Se você precisa de alguém para transformar ideias em interfaces bonitas, responsivas e funcionais, podemos trabalhar juntos!
+
+📬 Entre em contato:
+📧 iuricold99@gmail.com
+💼 [Linkedin](https://www.linkedin.com/in/iuricode/)
